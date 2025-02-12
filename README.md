@@ -1,2 +1,2 @@
 # refactored-octo-invention
-First repository for my projects
+Repository for my projects
